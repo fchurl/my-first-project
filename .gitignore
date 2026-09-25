@@ -1,0 +1,15 @@
+# Secrets (Google OAuth)
+credentials.json
+token.json
+
+# Personal financial data
+Treso.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Excel lock files
+~$*
