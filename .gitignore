@@ -13,3 +13,18 @@ venv/
 
 # Excel lock files
 ~$*
+
+# Projet cave à vin : dépôt privé séparé (données personnelles)
+cave/
+
+# Broker Operating System: separate private repo (professional data)
+broker-os/
+
+# Relevés EDF : dépôt privé séparé (identifiants, données personnelles)
+edf-releves/
+
+# Humidor (cave à cigares) : dépôt privé séparé (données personnelles)
+humidor/
+
+# Notes de frais pro : dépôt privé séparé (données employeur)
+expense/
